@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+build/
+idl/QuoterC.cpp
+idl/QuoterS.cpp
+
+idl/QuoterC.h
+idl/QuoterC.inl
+idl/QuoterS.h
