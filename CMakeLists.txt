@@ -39,4 +39,4 @@ project(MainProject)
 
 add_subdirectory(idl/)
 add_subdirectory(client/)
-#add_subdirectory(server/)
+add_subdirectory(server/)
