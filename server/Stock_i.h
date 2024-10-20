@@ -2,7 +2,7 @@
 #ifndef TAO_TUTORIAL_QUOTER_SIMPLE_SERVER_STOCK_I_H
 #define TAO_TUTORIAL_QUOTER_SIMPLE_SERVER_STOCK_I_H
 
-#include "idl/QuoterS.h"
+#include "idlgen/QuoterS.h"
 #include <string>
 
 class Quoter_Stock_i : public POA_Quoter::Stock {
