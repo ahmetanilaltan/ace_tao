@@ -32,5 +32,5 @@
 *.app
 
 build/
-client/idlgen/
-server/idlgen/
+bin/
+idlgen/

@@ -1,5 +1,5 @@
 
-#include "idlgen/QuoterC.h"
+#include "../idlgen/QuoterC.h"
 #include <orbsvcs/CosNamingC.h>
 #include "ace/streams.h"
 
